@@ -1,7 +1,8 @@
 # RC Fiberglass Boat Project
 
 ## Author 
-- Ricchieri Meven ( [GitHub Profile](https://github.com/Belprot), [Linkedin Profile](www.linkedin.com/in/meven-ricchieri-4b59b318b) )
+- Ricchieri Meven ( [GitHub Profile](https://github.com/Belprot), [Linkedin Profile](https://www.linkedin.com/in/meven-ricchieri-4b59b318b/) )
+
 
 ## Introduction
 
@@ -26,7 +27,25 @@ The model is almost complete, at this stage, the design is entirely white with n
 
 --- 
 
+## Consumable products
 
+<details>
+<summary>Show details</summary>
+
+| Product | name/link |
+|---|---|
+| Harder | [MEKP - Härter Curox M-303](https://shop.swiss-composite.ch/pi.php/Harze/Polyester-UP/Additive/MEKP-Haerter-Curox-M-303-15-100ml.html) |
+| Polyest resin | [Polyester-Laminierharz](https://shop.swiss-composite.ch/pi.php/Harze/Polyester-UP/Up-Harze/Polyesterharz-akt-Dose-1kg.html) |
+| Gelcoat | [UP-Gelcoat RAL 9010 reinweiss ](https://shop.swiss-composite.ch/pi.php/Harze/Polyester-UP/UP-Gelcoats/UP-Gelcoat-65-akt-weiss-1kg.html) |
+| Dye | [Universal-Farbpaste 50g](https://shop.swiss-composite.ch/pi.php/Farben-Lacke-Spachtel/Farb-Pasten-Pigmente/Universal-Farbpaste/Universal-Farbpaste-reinorange-RAL-2004-50g.html) |
+| Glass mat | [Glasmatte Pulver 150 g/m² 127 cm, per m ](https://shop.swiss-composite.ch/pi.php/Verstaerkungsfasern/Glasfasern/Matten-Vliese/GlasMatte-Pulver-per-Lfm/Glasmatte-150gr-127cm-pLfm.html) |
+| Glass fleece | [Glasvlies 30g/m² Wirrfaser 100cm](https://shop.swiss-composite.ch/pi.php/Verstaerkungsfasern/Glasfasern/Matten-Vliese/Vliese1/Glasvlies-30gm2-Wirrfaser-100cm.html) |
+| Twill fiberglass (black) | [Glasgewebe 92110 163g/m² Köper schwarz 100cm](https://shop.swiss-composite.ch/pi.php/Verstaerkungsfasern/Glasfasern/Glasgewebe/Glasgewebe-92110-163gm2-Koeper-schwarz-100cm.html) |
+| Twill fiberglass (white) | [Glasgewebe 92110 163g/m² Köper 100cm](https://shop.swiss-composite.ch/pi.php/Verstaerkungsfasern/Glasfasern/Glasgewebe/Glasgewebe-92110-163gm2-Koeper-100cm.html) |
+| Mold release wax | [FormulaFive Mold Release Wax 340g](https://shop.swiss-composite.ch/pi.php/Trennmittel/Wachstrennmittel/FormulaFive-Mold-Release-Wax-340g.html) |
+| PVA liquid release agent | [SCS PVA-Folientrennmittel](https://shop.swiss-composite.ch/pi.php/Trennmittel/PVA-Folientrennmittel/R-G-PVA-Folientrennmittel-500ml.html) |
+
+</details>
 
 
 ## 3D model
